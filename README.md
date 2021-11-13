@@ -1,4 +1,4 @@
-### Olá, meu nome é Alexsander Rubens 👋 sou programador e curto ciência 🧪.
+### Olá, meu nome é Alexsander Rubens 👋 sou programador e curto ciência 🧪
 <div align="center">
   <a href="https://github.com/rubensalexsander">
   <img height="120" width="420" src="https://github-readme-stats.vercel.app/api?username=rubensalexsander&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
